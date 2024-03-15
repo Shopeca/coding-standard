@@ -1,0 +1,9 @@
+{
+	"name": "shopeca/coding-standard",
+	"type": "library",
+	"description": "Coding Standard for Shopeca e-commerce platform based on SlevomatCodingStandard",
+	"require": {
+		"php": "^7.2|^8.0",
+		"slevomat/coding-standard": "^7.0"
+	}
+}
